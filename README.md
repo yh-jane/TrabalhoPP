@@ -1,4 +1,4 @@
-# Análise Completa: Problema das N-Rainhas com Processamento Paralelo
+# Problema das N-Rainhas com Processamento Paralelo
 
 ## 📋 Visão Geral
 
